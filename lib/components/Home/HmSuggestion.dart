@@ -17,6 +17,5 @@ class _HmSuggestionState extends State<HmSuggestion> {
        alignment: Alignment.center,
        child: Text("推荐", style: TextStyle(fontSize: 20, color: Colors.black))
     ));
-    
   }
 }
